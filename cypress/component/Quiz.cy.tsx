@@ -1,5 +1,5 @@
-import { it } from 'vitest';
-import Quiz from '../../client/components/Quiz.tsx';
+// import { it } from 'vitest';
+import Quiz from '../../client/src/components/Quiz'
 
 describe('Quiz', () => {
     beforeEach(() => {
@@ -42,11 +42,6 @@ it('should restart the quiz after completion', () => {
     cy.contains('Take New Quiz').click();
     cy.get('.btn-primary').should('exist');
 
-
-   
-
- 
-   
-
+});
 });
 
