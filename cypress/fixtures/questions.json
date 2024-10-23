@@ -1,6 +1,5 @@
-
-
-[{
+[
+  {
     "question": "What is the output of print(2 ** 3)?",
     "answers": [
       { "text": "6", "isCorrect": false },
@@ -8,4 +7,5 @@
       { "text": "9", "isCorrect": false },
       { "text": "12", "isCorrect": false }
     ]
-  }]
+  }
+]
