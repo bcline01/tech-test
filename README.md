@@ -17,8 +17,8 @@ This project adds comprehensive testing to an existing Tech Quiz application bui
   Clone the respository from my **[GitHub](https://github.com/bcline01/tech-test)**
 
    <br>NPM: Use the command "npm i" to install Node Package Manager<br>
-   <br>npm run build<br>
-   <br>npm run seed<br>
+  <br>Install Cypress: npm install cypress --save-dev<br>
+  <br>Navigate Cypress for both component and end to end testing<br>
    
   ## Usage
   Initialize program by running the application in the integrated terminal "npm run start:dev"
